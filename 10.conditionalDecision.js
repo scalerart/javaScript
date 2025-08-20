@@ -1,3 +1,20 @@
+var age = 17;
+if(age >=18){
+    console.log("You are Adult")
+} else {
+    console.log("You are a minor.");
+}
+
+var marks = 70;
+if(marks >= 80) {
+    console.log("Grate: A+")
+} else if(marks >= 70) {
+    console.log("Grate: A")
+} else {
+    console.log("Grate: B")
+}
+
+
 // JavaScript এর Conditional Decision মানে হলো — কোনো শর্ত (condition) ঠিক থাকলে একরকম কাজ করবে, আর ভুল হলে অন্যরকম কাজ করবে।
 // এটা প্রোগ্রামিং এর সবচেয়ে গুরুত্বপূর্ণ অংশগুলোর মধ্যে একটি।
 
