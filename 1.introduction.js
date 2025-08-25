@@ -1,3 +1,4 @@
+/*
 ✨গল্প দিয়ে JavaScript বোঝা
 
     অনেক দিন আগে একটা বড় ওয়েব টাউন (Web Town) ছিল।
@@ -60,4 +61,5 @@
     2. Console
     3. Node.js (file বা REPL)
     4. Online Editor
-    5. Framework/App এর মাধ্যমে    
+    5. Framework/App এর মাধ্যমে
+*/    
